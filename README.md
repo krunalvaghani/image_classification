@@ -1,4 +1,4 @@
-# image_classification
+# Image Classification
 
 Download the dataset from https://www.kaggle.com/tongpython/cat-and-dog and place it in the folder training_set and test_set
 
