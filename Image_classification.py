@@ -15,7 +15,7 @@ from keras.preprocessing.image import ImageDataGenerator
 num_classes = 2 # Change according to your application
 batch_size = 32
 
-if num_classes=2:
+if num_classes==2:
     last_layer_classifier=num_classes-1
     cl_mode = 'binary'
     classifier_loss = 'binary_crossentropy'
